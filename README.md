@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am Sharanu B
+Am studying B Tech in Birla Institute of Technology and Sceince in Final year.
 
 <!--
 **Sharanu4all/Sharanu4all** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
